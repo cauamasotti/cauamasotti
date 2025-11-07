@@ -1,8 +1,8 @@
 ## Olá Mundo, me chamo Cauã! 💻
 
-- 🔭 A procura de novos desafios na área.
-- 🌱 Estudante de TI procurando um seguimento.
-- 💬 Aberto para Networks.
+- 🌱 Profissional na área de TI procurando um seguimento.
+- 💬 Me chame para Networks.
+- 🔭 Buscando certificações.
 
 <h2 align="left">Stats:</h2>
 
