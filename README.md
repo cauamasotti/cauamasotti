@@ -24,7 +24,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge&logo=servicenow&logoColor=white)
-![Ciberseguraçanca e Redes ](https://img.shields.io/badge/Cybersecurity-FF6C2C?style=for-the-badge&logo=hackaday&logoColor=white)
+![Cibersegurança e Redes](https://img.shields.io/badge/Cibersegurança_e_Redes-FF6C2C?style=for-the-badge&logo=hackaday&logoColor=white)
 
 
 ### Design & Ferramentas
