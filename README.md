@@ -35,7 +35,6 @@
 
 🎓 ServiceNow - Welcome - Finalizado
 
-
 🎓 AWS Cloud Practitioner - Em preparação  
 
 ---
