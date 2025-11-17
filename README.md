@@ -32,7 +32,10 @@
 ---
 
 ## Certificações & Aprendizado
+
 🎓 ServiceNow - Welcome - Finalizado
+
+
 🎓 AWS Cloud Practitioner - Em preparação  
 
 ---
@@ -44,19 +47,16 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=cauamasotti&theme=midnight-purple&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cauamasotti&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+  
+![](https://github-contributor-stats.vercel.app/api?username=cauamasotti&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
 
 </div>
 
 ---
 
-## Repositórios com Mais Contribuições
-![](https://github-contributor-stats.vercel.app/api?username=cauamasotti&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
-
----
-
 <div align="center">
   
-### 💡 "O aprendizado contínuo é a chave para a inovação"
+### 💡 "Quando você é consistente, o impossível vira apenas questão de tempo"
 
 ![](https://komarev.com/ghpvc/?username=cauamasotti&color=blueviolet&style=flat-square)
 
