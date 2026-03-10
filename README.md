@@ -1,8 +1,8 @@
 # Olá, eu sou Cauã Masotti!
 
 ## 📍 Sobre Mim
-🌱 Profissional de TI se especializando em Redes e Cloud. 
-📚 Estudando para certificações AWS e aprimorando conhecimentos de soluções  
+🌱 Profissional de TI se especializando em Redes e Cloud.
+📚 Estudando para certificações AWS e aprimorando conhecimentos de soluções.
 💬 Aberto para networking
 
 ---
